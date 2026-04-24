@@ -16,11 +16,11 @@ h3 {
 }
 
 a {
-  border: 5px solid black;
+  border: 5px solid white;
   border-radius: 3px;
   text-decoration: none;
   padding: 20px;
-  color: black;
+  color: white;
 }
 
 a:hover {
