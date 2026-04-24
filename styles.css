@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+a {
+  border: 5px solid black;
+  border-radius: 3px;
+  text-decoration: none;
+}
