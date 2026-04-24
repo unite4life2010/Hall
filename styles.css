@@ -6,4 +6,13 @@ a {
   border: 5px solid black;
   border-radius: 3px;
   text-decoration: none;
+  padding: 20px;
+  color: black;
+}
+
+a:hover {
+  border: 6px solid red;
+  padding: 22px;
+  color: red;
+  background-color: black;
 }
